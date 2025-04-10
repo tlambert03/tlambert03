@@ -17,6 +17,8 @@ In this github org, notable libraries include:
 - [cmap](https://github.com/tlambert03/cmap): Comprehensive colormap library, with only numpy dependency
 - [PSFmodels](https://github.com/tlambert03/PSFmodels): Scalar and vectorial models of the 3D microscope point spread function.
 - [mrc](https://github.com/tlambert03/mrc): deltavision (.mrc/.dv) image file format reader/writer.
+- [microsim](https://github.com/tlambert03/microsim): fluorescence microscopy simulation framework
+- [mkdocs-api-autonav](https://github.com/tlambert03/mkdocs-api-autonav): API documentation autogeneration for mkdocs
 
 
 <a href="#">
