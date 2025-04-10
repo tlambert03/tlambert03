@@ -2,7 +2,7 @@ I'm a neurobiologist and microscopist by training, and I enjoy maintaining libra
 the general ecosystem of python image visualization and analysis.
 
 - I was a core developer of [napari](https://github.com/napari/napari).
-- Many of the reusable patterns I developed there have been extracted into
+- Many of the patterns I developed there have been extracted into
   reusable libraries in the [pyapp-kit organization](https://github.com/pyapp-kit)
   which I continue to maintain.
 - I also maintain the [pymmcore-plus organization](https://github.com/pymmcore-plus), a set of packages
