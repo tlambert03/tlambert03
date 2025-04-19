@@ -21,6 +21,14 @@ In this github org, notable libraries include:
 - [mkdocs-api-autonav](https://github.com/tlambert03/mkdocs-api-autonav): API documentation autogeneration for mkdocs
 
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=tlambert03&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tlambert03&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tlambert03&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tlambert03&show_icons=true" />
+</picture>
